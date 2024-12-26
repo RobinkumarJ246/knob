@@ -1,4 +1,5 @@
-# Retrofitting Smart Knob for Cooktops
+# 🎛️ KnobX
+## Retrofitting Smart Knob for Cooktops
 
 ## 🌟 Overview
 Elevate your cooking experience with the **Retrofitting Smart Knob**, a revolutionary solution designed to enhance safety, precision, and convenience for traditional cooktops. This smart knob integrates seamlessly with a mobile app built on **React Native (Expo SDK 51)** and leverages **MQTT** for local communication, ensuring functionality even in offline mode.
