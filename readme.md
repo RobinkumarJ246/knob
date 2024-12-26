@@ -147,4 +147,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ---
 
 ## 🙌 Acknowledgments
-Special thanks to the open-source community and the developers of **React Native**, **MQTT**, and **FreeRTOS** for providing tools that made this project possible.
+Special thanks to **Atomberg** for providing this exciting opportunity, to the open-source communities and the developers of **React Native**, **MQTT**, and **FreeRTOS** for providing tools that made this project possible.
