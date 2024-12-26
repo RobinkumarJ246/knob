@@ -5,6 +5,11 @@ Elevate your cooking experience with the **Retrofitting Smart Knob**, a revoluti
 
 ---
 
+## 🏆 AtomQuest Challenge
+This project is developed as part of the prestigious **AtomQuest Challenge**, an initiative by **Atomberg** to inspire smart and energy-efficient innovations. Atomberg, known for its revolutionary appliances, motivates young innovators to create impactful solutions. The Retrofitting Smart Knob embodies this vision, combining technology and user-centric design to redefine modern cooking.
+
+---
+
 ## ✨ Features
 
 ### 🛠️ **Smart Functionality**
@@ -114,11 +119,6 @@ Elevate your cooking experience with the **Retrofitting Smart Knob**, a revoluti
 ### **Software**
 - **Mobile App Framework:** React Native (Expo SDK 51)
 - **MQTT Libraries:** MQTT.js, PubSubClient, Async MQTT
-
----
-
-## 🏆 AtomQuest Challenge
-This project is developed as part of the prestigious **AtomQuest Challenge**, an initiative by **Atomberg** to inspire smart and energy-efficient innovations. Atomberg, known for its revolutionary appliances, motivates young innovators to create impactful solutions. The Retrofitting Smart Knob embodies this vision, combining technology and user-centric design to redefine modern cooking.
 
 ---
 
